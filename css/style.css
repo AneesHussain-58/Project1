@@ -1,0 +1,182 @@
+.bgimg{
+	background-image: url(../img/pic1.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 750px;
+}
+.fa-solid{
+	margin-top: 13px;
+}
+.fa-solid{
+	margin-right: 17px;
+}
+:root {
+	--primary-color: #d9be84;
+	--secondary-color:#43121d;
+	--third-color:#f98169;
+	--white-color:#fff;
+	--text-gray:#999;
+	--black-color:#000;
+
+}
+.main-btn{
+	display: inline-block;
+	padding: 0.325rem 1.975rem;
+	line-height: 1.5425rem;
+	background-color:var(--primary-color);
+	border: 0.1875rem;
+	color: var(--black-color);
+	font-size: 0.9375rem;
+	font-weight: 600;
+	text-transform: capitalize;
+	box-shadow: 0px 2px 10px -1px rgb(0 0 0 / 19%);
+	-webkit-transition: all .4s ease-out 0s ;
+	-o-transition: all .4s ease-out 0s;
+	-moz-transition: all .4s ease-out 0s;
+	transition: all .4s ease-out 0s;
+
+}
+.top-banner{
+	width: 100%;
+	background-size: cover;
+	margin-top: 10rem;
+	
+}
+.card{
+	margin-top: 8rem;
+}
+.mt-4{
+	margin-top: 20px;
+
+}
+.fourth{
+	margin-right: 20px;
+}
+.row1{
+	background-color:#000;
+	margin-top: 4rem;
+	margin-bottom:4rem;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+.txt{
+	color:var(--white-color);
+	padding-left: 90px;
+
+}
+#tags{
+	margin-top: 1rem;
+}
+.container-fluid {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+/* *******************Starting from here*************************** */
+.fifth img{
+  width: 100%;
+}
+.image-piyano{
+	height: 50vh;
+}
+.heading-card-img-piyano{
+	text-align: left;
+	color: #000;
+	margin-left: -15px;
+	margin-bottom: 10px;
+}
+.afterheading-text-card{
+	font-size: smaller;
+	margin-left: -15px;
+	text-align: left;
+
+}
+.card-arrow p{
+	content: "\2192";
+    font-size: 2rem;
+    margin-left: -315px;
+}
+.card .first_arrow{
+	color: #f98169;
+}
+.readme-css{
+	margin-left: 5px;
+}
+
+.card-arrow-readme{
+    margin-left: -130px;
+    font-size: 2rem;
+
+}
+.button-view-all{
+	margin-left: -181px;
+	width: 50%;
+	padding: 10px;
+	background-color: #F3C892;
+	border: none;
+}
+.form-input-text{
+	margin-top: 153px;
+}
+.input-tet{
+	width: 30%;
+	margin-left: 113px;
+	padding: 5px;
+	border: none;
+	background-color: white;
+}
+.input-btn-but{
+	/* padding: 10px; */
+	width: 15%;
+	margin-left: 5px;
+	border: none;
+	background-color: #F3C892;
+
+}
+.text_para{
+	margin-top: 20px;
+	margin-left: 150px;
+	margin-bottom: 5;
+	color: white; 
+}
+.text-txt{
+	color: #d9be84;
+	font-size: medium;
+	margin-bottom: 16px;
+	font-size: medium;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+	float: left;
+	width: 50%;
+	padding: 10px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+	content: "";
+	display: table;
+	clear: both;
+  }
+  .form-inputs-text{
+	  margin-top: 52px;
+  }
+  .contact-color{
+	color: #F3C892;
+
+  }
+  .form-btn-1{
+	padding: 10px;
+	width: 28%;
+	margin-top: 10px;
+	border: none;
+	background-color: #F3C892;
+  }
+  form input{
+	  padding: 25px !important;
+	  border-radius: none !important;
+  }
